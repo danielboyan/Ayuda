@@ -13,6 +13,8 @@ int main (void){
     }else{
         printf("Valor fuera de rango");
     }
+    return 0;
+    //NO TE OLVIDES DEL RETURN 0; EN EL MAIN porfavor!!<---------------------
 }
 
 
